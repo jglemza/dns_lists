@@ -295,4 +295,5 @@ youtube-nocookie.com
 yt3.ggpht.com
 link.theskimm.com
 go.skimresources.com
-shareasale-analytics.com"
+shareasale-analytics.com
+email.purplecarrot.com
